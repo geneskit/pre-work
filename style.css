@@ -1,0 +1,46 @@
+h1, .centered {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: xx-large;
+}
+
+.tiny {
+    font-size: xx-small;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.change {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.multiple {
+    font-size: xx-large;
+    color: orange;
+    font-weight: 500;
+}
+
+.styledFont {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:orchid;
+}
+
+img {
+    border: 5px solid #555;
+  }
