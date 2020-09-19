@@ -18,10 +18,10 @@ $("#textGreen").on("click", function() {
 })
 
 
-$("#boxGrow").on(click, function() {
+$("#boxGrow").on("click", function() {
 	$("#box").animate({height:"+=35px", width:"+=35px"}, "fast");
 })
 
-$("#boxShrink").on(click, function() {
+$("#boxShrink").on("click", function() {
 	$("#box").animate({height:"-=35px", width:"-=35px"}, "fast");
 })
